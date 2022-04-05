@@ -7,4 +7,4 @@ Author: Kevin Jones <br />
 Project # | Markdown | R Markdown
 --- | --- | ---
 
-1 |  [Reproducible Research Project 1]
+1 |  [Reproducible Research Project 1 |
