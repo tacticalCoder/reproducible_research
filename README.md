@@ -1,2 +1,10 @@
 # reproducible_research
-Project 1
+
+
+Author: Kevin Jones <br />
+
+## Projects 
+Project # | Markdown | R Markdown
+--- | --- | ---
+
+1 |  [Reproducible Research Project 1
